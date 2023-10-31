@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3da26d7d-3c8d-4ca2-8b8c-ca073ba5e3c2">
+  <name>Услуги</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="6cf8e5bd-fce0-404f-87bc-d4484d90ac04"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="9430ef0f-4297-415c-8705-781861a51cfa"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="36ef1021-8441-44e2-aaa3-29d1f0309c1f"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="48e35f1e-955b-4877-9355-9582fc2b3dac"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="3144c874-cc35-44fe-8ebd-8e3c993bc329"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d8dd3f05-8787-4e55-a5a7-ccdf0f9e5b04"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="144ad5a3-29d8-4562-b3a8-5a977d8a9127"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.23</compatibilityMode>
+  <languages uuid="f93949c7-77ea-4972-8822-2fafd60410a9">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Главная</subsystems>
+  <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.гвк_Проекты</catalogs>
+  <dataProcessors>DataProcessor.ОбработкаРаз</dataProcessors>
+  <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
+</mdclass:Configuration>

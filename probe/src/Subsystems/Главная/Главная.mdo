@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="41539dc2-0aa4-4f38-950c-340b7479a9b1">
+  <name>Главная</name>
+  <synonym>
+    <key>ru</key>
+    <value>Главная</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Валюты</content>
+  <content>Catalog.гвк_Проекты</content>
+  <content>DataProcessor.ОбработкаРаз</content>
+  <content>InformationRegister.КурсыВалют</content>
+</mdclass:Subsystem>
