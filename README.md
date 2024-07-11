@@ -7,4 +7,4 @@
 
 
 ## Postgresql
-https://www.youtube.com/watch?v=QxpFp0W95oE
+https://www.youtube.com/watch?v=QxpFp0W95oE  - Рассказ про b-tree индексы для разработчиков приложений — Владимир Ситников, PGConf.СПб 2023
