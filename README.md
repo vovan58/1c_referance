@@ -11,3 +11,5 @@
 [Рассказ про b-tree индексы для разработчиков приложений — Владимир Ситников, PGConf.СПб 2023](https://www.youtube.com/watch?v=QxpFp0W95oE)
 
 [Обновление статистики в PostgreSQL (ANALYZE)](http://www.gilev.ru/updstatepg/)
+
+[Настройка регламентов PostgreSQL](http://www.gilev.ru/pgreglament/)
