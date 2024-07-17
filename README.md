@@ -4,7 +4,7 @@
 ## 1C программирование
 
 ## 1C администрирование
-Установка Платформы «1С:Предприятие» в ОС Linux (ИТС) - https://its.1c.ru/db/metod8dev/content/5953/hdoc
+[Установка Платформы «1С:Предприятие» в ОС Linux (ИТС)](https://its.1c.ru/db/metod8dev/content/5953/hdoc)
 
 
 ## Postgresql
