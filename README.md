@@ -8,6 +8,8 @@
 
 [Установка Платформы «1С:Предприятие» в ОС Linux (ИТС)](https://its.1c.ru/db/metod8dev/content/5953/hdoc)
 
+[Скрипты для разработчиков(1С Исполнитель)](https://github.com/DoublesunRUS/devscripts/tree/master) 
+
 
 ## Postgresql
 [Рассказ про b-tree индексы для разработчиков приложений — Владимир Ситников, PGConf.СПб 2023](https://www.youtube.com/watch?v=QxpFp0W95oE)
