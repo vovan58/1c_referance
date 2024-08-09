@@ -22,3 +22,7 @@
 [Настройка регламентов PostgreSQL](http://www.gilev.ru/pgreglament/)
 
 [ PostgreSQL (BNC)](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3258:3259:3263)
+
+## EDT
+
+[Пространство для пожеланий и обсуждения ошибок проекта 1C:Enterprise Development Tools.](https://github.com/1C-Company/1c-edt-issues)
