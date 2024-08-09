@@ -26,3 +26,5 @@
 ## EDT
 
 [Пространство для пожеланий и обсуждения ошибок проекта 1C:Enterprise Development Tools.](https://github.com/1C-Company/1c-edt-issues)
+
+[Плагин запрета редактирования для 1C:EDT](https://github.com/marmyshev/edt-editing)
