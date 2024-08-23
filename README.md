@@ -13,6 +13,8 @@
 
 [Скрипты для разработчиков(1С Исполнитель)](https://github.com/DoublesunRUS/devscripts/tree/master) 
 
+[Индексы таблиц базы данных](https://its.1c.ru/db/metod8dev#content:1590:hdoc:spr)
+
 
 ## Postgresql
 [Рассказ про b-tree индексы для разработчиков приложений — Владимир Ситников, PGConf.СПб 2023](https://www.youtube.com/watch?v=QxpFp0W95oE)
@@ -28,3 +30,7 @@
 [Пространство для пожеланий и обсуждения ошибок проекта 1C:Enterprise Development Tools.](https://github.com/1C-Company/1c-edt-issues)
 
 [Плагин запрета редактирования для 1C:EDT](https://github.com/marmyshev/edt-editing)
+
+## Исполнитель
+
+[Документация доступна на портале 1С:ИТС](https://its.1c.ru/db/execdoc)
