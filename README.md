@@ -35,10 +35,10 @@
 
 [Документация доступна на портале 1С:ИТС](https://its.1c.ru/db/execdoc)
 
-[Хабр фриланс](https://freelance.habr.com/)
-
-
 
 ## Работа, задания
 
 [Сервис удаленной работы](https://1clancer.ru/)
+
+[Хабр фриланс](https://freelance.habr.com/)
+
