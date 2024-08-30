@@ -20,7 +20,7 @@
 
 [Для начинающих разработчиков](https://v8.1c.ru/obuchenie-programmistov/)
 
-[Репозиторий для агрегации обучающих и методических материалов для 1С-разработчиков] (https://github.com/DoublesunRUS/materials/blob/master/suggestions.txt)
+[Репозиторий для агрегации обучающих и методических материалов для 1С-разработчиков](https://github.com/DoublesunRUS/materials/blob/master/suggestions.txt)
 
 [Портал для разработчиков](https://developer.1c.ru/)
 
