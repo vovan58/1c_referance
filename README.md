@@ -1,6 +1,8 @@
 # 1c_referance
 Справочник по материалам 1С - программы, инструменты, ссылки на видео и обучающие курсы
 
+[В закладки: 23 полезные ссылки для 1С-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/837708/)
+
 ## 1C программирование
 
 [Репозиторий для агрегации обучающих и методических материалов для 1С-разработчиков] (https://github.com/DoublesunRUS/materials/blob/master/suggestions.txt)
