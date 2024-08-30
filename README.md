@@ -17,6 +17,9 @@
 
 [Индексы таблиц базы данных](https://its.1c.ru/db/metod8dev#content:1590:hdoc:spr)
 
+## Интеграция
+
+[Открытый Пакет Интеграций](https://openintegrations.dev/) Набор инструментов для интеграции с популярными API посредством CLI, 1C:Enterprise и OneScript
 
 ## Postgresql
 [Рассказ про b-tree индексы для разработчиков приложений — Владимир Ситников, PGConf.СПб 2023](https://www.youtube.com/watch?v=QxpFp0W95oE)
