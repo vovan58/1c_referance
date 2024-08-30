@@ -1,7 +1,7 @@
 # 1c_referance
 Справочник по материалам 1С - программы, инструменты, ссылки на видео и обучающие курсы
 
-[В закладки: 23 полезные ссылки для 1С-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/837708/){target="_blank"}
+[В закладки: 23 полезные ссылки для 1С-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/837708/)
 
 [Информация для специалистов](https://partners.v8.1c.ru/) :
 - Конференция
