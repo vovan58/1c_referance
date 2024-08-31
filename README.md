@@ -47,7 +47,7 @@
 
 [ PostgreSQL (BNC)](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3258:3259:3263)
 
-[Егор Рогов на Хабре](https://habr.com/ru/users/erogov/publications/articles/) - интересные статьи о внутреннем устройстве PostgreSQL
+[Егор Рогов на Хабре](https://habr.com/ru/users/erogov/publications/articles/) - интересные статьи о внутреннем устройстве PostgreSQL его [книга](https://edu.postgrespro.ru/postgresql_internals-14.pdf) 
 
 
 
