@@ -1,5 +1,6 @@
 # 1c_referance
 Справочник по материалам 1С - программы, инструменты, ссылки на видео и обучающие курсы
+[Мои материалы по платформе, включая ошибки](https://github.com/vovan58/1c_referance/tree/main/platform)
 
 [В закладки: 23 полезные ссылки для 1С-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/837708/)
 
