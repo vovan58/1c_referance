@@ -35,6 +35,10 @@
 
 [Индексы таблиц базы данных](https://its.1c.ru/db/metod8dev#content:1590:hdoc:spr)
 
+## Прикладные решения
+
+[Новости законодательства от «1С»](https://v8.1c.ru/lawmonitor/])
+
 ## Интеграция
 
 [Открытый Пакет Интеграций](https://openintegrations.dev/) Набор инструментов для интеграции с популярными API посредством CLI, 1C:Enterprise и OneScript
