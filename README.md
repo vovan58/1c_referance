@@ -54,6 +54,8 @@
 
 [Егор Рогов на Хабре](https://habr.com/ru/users/erogov/publications/articles/) - интересные статьи о внутреннем устройстве PostgreSQL его [книга](https://edu.postgrespro.ru/postgresql_internals-14.pdf) 
 
+[Получить сборку СУБД PostgreSQL для 1C](https://1c.postgres.ru/)
+
 
 
 ## EDT
