@@ -1,5 +1,7 @@
 # написание скриптов на bash
 
+[Шпаргалка по bash](https://github.com/cyberspacedk/BASH-Commands)
+
 [Bash-скрипты: начало](https://habr.com/ru/companies/ruvds/articles/325522/) - 11 статей по написанию скриптов на bash
 
 [Написание скриптов в Linux Bash](https://help.reg.ru/support/servery-vps/oblachnyye-servery/rabota-s-serverom/napisaniye-skriptov-v-linux-bash#0)
