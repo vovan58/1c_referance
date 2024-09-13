@@ -11,3 +11,7 @@
 [Руководство по написанию скриптов в Linux Bash](https://selectel.ru/blog/tutorials/linux-bash-scripting-guide/?ysclid=m0vidpsdc1333215837) - от Selectel
 
 [Шпаргалка по bash](https://gist.github.com/Titiaiev/dcb7298389d1276b823bbc96e29f940d)
+
+[Искусство программирования на языке сценариев командной оболочки](https://www.opennet.ru/docs/RUS/bash_scripting_guide/index.html) -Advanced Bash-Scripting Guide
+Искусство программирования на языке сценариев командной оболочки
+Автор: Mendel Cooper
