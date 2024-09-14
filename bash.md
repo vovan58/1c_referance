@@ -15,3 +15,5 @@
 [Искусство программирования на языке сценариев командной оболочки](https://www.opennet.ru/docs/RUS/bash_scripting_guide/index.html) -Advanced Bash-Scripting Guide
 Искусство программирования на языке сценариев командной оболочки
 Автор: Mendel Cooper
+
+[Git и bash под Windows ](https://gist.github.com/1234ru/0af93e343495e62e852d6c5951314914)
