@@ -64,6 +64,8 @@
 
 [Плагин запрета редактирования для 1C:EDT](https://github.com/marmyshev/edt-editing)
 
+[Обновление конфигураций в EDT как болеутоляющее средство — 1C-RarusTechDay 2021](https://www.youtube.com/watch?v=jYGIkUfRVPY&t=519s)
+
 ## Исполнитель
 
 [Документация доступна на портале 1С:ИТС](https://its.1c.ru/db/execdoc)
