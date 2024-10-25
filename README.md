@@ -39,6 +39,8 @@
 
 [Новости законодательства от «1С»](https://v8.1c.ru/lawmonitor/])
 
+[Управление нашей фирмы и Розница](https://github.com/vovan58/1c_referance/blob/main/smallbusines.md)
+
 ## Интеграция
 
 [Открытый Пакет Интеграций](https://openintegrations.dev/) Набор инструментов для интеграции с популярными API посредством CLI, 1C:Enterprise и OneScript
