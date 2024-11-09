@@ -72,6 +72,10 @@
 
 [Обновление конфигураций в EDT как болеутоляющее средство — 1C-RarusTechDay 2021](https://www.youtube.com/watch?v=jYGIkUfRVPY&t=519s)
 
+## Тестирование
+
+[Тестер](http://tester.help/)
+
 ## Исполнитель
 
 [Документация доступна на портале 1С:ИТС](https://its.1c.ru/db/execdoc)
