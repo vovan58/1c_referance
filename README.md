@@ -43,6 +43,8 @@
 
 [Новости законодательства от «1С»](https://v8.1c.ru/lawmonitor/])
 
+[Видеоуроки по решению учетных задач в программах «1С»](https://its.1c.ru/clip8/)
+
 [Управление нашей фирмы и Розница](https://github.com/vovan58/1c_referance/blob/main/smallbusines.md)
 
 [ERP 2](erp.md)
