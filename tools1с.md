@@ -4,4 +4,6 @@
 
 [Генератор пользовательских ролей](https://rarus.ru/instruments/generator-polzovatelskikh-roley/) и на [github](https://github.com/rarus/custom-role-generator)
 
+## Качество кода
+
 [BSL Language Server](https://github.com/1c-syntax/bsl-language-server?tab=readme-ov-file)
