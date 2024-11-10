@@ -74,7 +74,15 @@
 
 ## Тестирование
 
+Обзор средств тестирования (Онянов Виталий) : [100+ тестов на Vanessa-Automation. Личный опыт без маркетинга](https://infostart.ru/1c/articles/1938621/)
+
 [Тестер](http://tester.help/)
+
+[Конфигурация Тестирование 3.0](https://github.com/ivanov660/TestingTool-3)
+
+[Vanessa ADD ](https://github.com/vanessa-opensource/add)
+
+[Vanessa-Automation ](https://github.com/Pr-Mex/vanessa-automation)
 
 ## Исполнитель
 
