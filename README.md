@@ -76,6 +76,8 @@
 
 [Обновление конфигураций в EDT как болеутоляющее средство — 1C-RarusTechDay 2021](https://www.youtube.com/watch?v=jYGIkUfRVPY&t=519s)
 
+[Как установить Java на Ubuntu](https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/kak-ustanovit-java-na-ubuntu#0)
+
 ## Тестирование
 
 Обзор средств тестирования (Онянов Виталий) : [100+ тестов на Vanessa-Automation. Личный опыт без маркетинга](https://infostart.ru/1c/articles/1938621/)
