@@ -41,7 +41,7 @@
 
 [Индексы таблиц базы данных](https://its.1c.ru/db/metod8dev#content:1590:hdoc:spr)
 
-DevOps
+[DevOps](DevOps.md)
 
 ## Прикладные решения
 
