@@ -2,6 +2,8 @@
 
 [Линии консультаций по программным продуктам и сервисам 1С](https://1c.ru/rus/support/hline.htm)
 
+[Системные требования «1С:Предприятия 8»](https://v8.1c.ru/tekhnologii/systemnye-trebovaniya-1s-predpriyatiya-8/)
+
 Справочник по материалам 1С - программы, инструменты, ссылки на видео и обучающие курсы
 [Мои материалы по платформе, включая ошибки](https://github.com/vovan58/1c_referance/tree/main/platform)
 
