@@ -70,6 +70,12 @@
 
 ## EDT
 
+### Документация
+  [1C:Enterprise Development Tools Руководство разработчика](https://its.1c.ru/db/edtdoc)
+  [Групповая разработка в продуктах «1С»](https://its.1c.ru/db/coldev)
+  [Плагины для 1C:EDT 1С:Language Tool](https://its.1c.ru/db/edtplugins)
+
+### Дополнительные материалы
 [Пространство для пожеланий и обсуждения ошибок проекта 1C:Enterprise Development Tools.](https://github.com/1C-Company/1c-edt-issues)
 
 [Плагин запрета редактирования для 1C:EDT](https://github.com/marmyshev/edt-editing)
