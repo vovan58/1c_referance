@@ -92,6 +92,8 @@ EDT. Непрерывный цикл от разработки до тестир
 
 [Как установить Java на Ubuntu](https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/kak-ustanovit-java-na-ubuntu#0)
 
+[Общрий репозиторий-агреггатор всех плагинов для 1C:EDT](https://github.com/marmyshev/edt-plugins)
+
 ## Тестирование
 
 Обзор средств тестирования (Онянов Виталий) : [100+ тестов на Vanessa-Automation. Личный опыт без маркетинга](https://infostart.ru/1c/articles/1938621/)
