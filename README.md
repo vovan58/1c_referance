@@ -108,6 +108,8 @@ EDT. Непрерывный цикл от разработки до тестир
 
 [Vanessa-Automation ](https://github.com/Pr-Mex/vanessa-automation)
 
+[Unit-тесты с помощью 1C:Enterprise Development Tools ](https://infostart.ru/1c/articles/1249667/?ysclid=m3kphdygn4528256804)
+
 ## Исполнитель
 
 [Документация доступна на портале 1С:ИТС](https://its.1c.ru/db/execdoc)
@@ -126,3 +128,6 @@ EDT. Непрерывный цикл от разработки до тестир
 [telegram-list](https://github.com/goq/telegram-list) Список интересных групп, каналов и ботов телеграма. Чаты Telegram для программистов и разработчиков, гиков, айтишников, сисадминов и девопсов, а также прочих неравнодушных к компьютерам и программированию.
 
 [Сервис проверки контрагентов](https://www.list-org.com/)
+
+## Литература
+
