@@ -20,4 +20,15 @@
 
 [Основные команды Linux: почти полное руководство с примерами](https://selectel.ru/blog/basic-linux-commands/?utm_source=marquiz.ru&utm_medium=referral&utm_campaign=academy_quiz_linux_090424_content)
 
+### животрепещущее от selectel
 [Горячие клавиши терминала Linux](https://slc.tl/hotkeys)
+
+[Перенаправление ввода/вывода в Linux](https://slc.tl/redirection)
+
+[Что делает команда chmod и как ее использовать в Linux](https://slc.tl/chmod)
+
+[Команда ifconfig в Linux: установка, синтаксис и примеры использования](https://slc.tl/ifconfig)
+
+[Настройка iptables в Linux](https://slc.tl/iptables)
+
+[Обзор операционной системы Red Hat Enterprise Linux: история, установка, преимущества](https://slc.tl/redhat)
