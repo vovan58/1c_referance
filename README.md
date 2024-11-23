@@ -92,11 +92,13 @@
 
 Обновление конфигураций в EDT как болеутоляющее средство — 1C-RarusTechDay 2021[youtube](https://www.youtube.com/watch?v=jYGIkUfRVPY&t=519s) [rutube](https://rutube.ru/video/075e5f09527331d7c57ccd746a9efc08/?t=0)
 
+Дополнительно : [Обновление измененных типовых](https://t.me/e1c_edt/107138) - немного ранее много интересного!!!
+
 EDT. Непрерывный цикл от разработки до тестирования — 1C-RarusTechDay 2021 [youtube](https://www.youtube.com/watch?v=mRE6IYOeukE)  [rutube](https://rutube.ru/video/3e90ad75093bf3754b49dccf2e78e2ca/?t=0)
 
 [Как установить Java на Ubuntu](https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/kak-ustanovit-java-na-ubuntu#0)
 
-[Общрий репозиторий-агреггатор всех плагинов для 1C:EDT](https://github.com/marmyshev/edt-plugins)
+[Общий репозиторий-агреггатор всех плагинов для 1C:EDT](https://github.com/marmyshev/edt-plugins)
 
 ## Тестирование
 
