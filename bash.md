@@ -19,3 +19,5 @@
 [Git и bash под Windows ](https://gist.github.com/1234ru/0af93e343495e62e852d6c5951314914)
 
 [Основные команды Linux: почти полное руководство с примерами](https://selectel.ru/blog/basic-linux-commands/?utm_source=marquiz.ru&utm_medium=referral&utm_campaign=academy_quiz_linux_090424_content)
+
+[Горячие клавиши терминала Linux](https://slc.tl/hotkeys)
