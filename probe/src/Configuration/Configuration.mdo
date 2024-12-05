@@ -37,6 +37,9 @@
   <subsystems>Subsystem.Главная</subsystems>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.гвк_Проекты</catalogs>
+  <catalogs>Catalog.Услуги</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <documents>Document.ОказаниеУслуг</documents>
   <dataProcessors>DataProcessor.ОбработкаРаз</dataProcessors>
   <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
 </mdclass:Configuration>

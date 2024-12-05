@@ -11,4 +11,7 @@
   <content>Catalog.гвк_Проекты</content>
   <content>DataProcessor.ОбработкаРаз</content>
   <content>InformationRegister.КурсыВалют</content>
+  <content>Catalog.Услуги</content>
+  <content>Document.ОказаниеУслуг</content>
+  <content>Catalog.Контрагенты</content>
 </mdclass:Subsystem>

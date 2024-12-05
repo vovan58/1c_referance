@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d3d7a2eb-ea51-46ec-954a-5067c2a15b51">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="216d5e68-b552-401b-8fce-82f8a07846d6">
   <producedTypes>
-    <objectType typeId="566de6ce-f16e-4c1d-aa1a-084e6b2aa3cc" valueTypeId="0a77e0bf-69e1-436a-a778-3423a3c9ecf2"/>
-    <refType typeId="4ea2d5ee-379b-4baa-af4d-f8743448c6eb" valueTypeId="9066f593-0629-4269-b8ba-ade1e085abed"/>
-    <selectionType typeId="73b3756a-c575-48d0-8748-d27bbf96d762" valueTypeId="90a4ab7e-3dd6-462d-a502-91c81cb924a7"/>
-    <listType typeId="8f3a5cba-eb84-450f-be0a-a333d70dc2d0" valueTypeId="189bf69b-589d-4f72-8d0b-d5350f71a62e"/>
-    <managerType typeId="b1bbb1a6-2cef-4a90-89f5-1b805e4c285f" valueTypeId="6ebe4da9-8c8b-46e4-893c-4508d393d579"/>
+    <objectType typeId="eddf49da-f6c0-4d23-a08f-725029a8d04b" valueTypeId="0d13376f-618b-46e9-9006-8adf91ba85cd"/>
+    <refType typeId="ccf9f010-d289-44e2-a513-ccb6bfa7c152" valueTypeId="d1f69d79-113c-4780-ab7f-56a2925b56d1"/>
+    <selectionType typeId="aa82f6fd-3407-4c9e-bcbd-1618df90b035" valueTypeId="a39749f9-ba91-434f-a706-4a91e495ee3a"/>
+    <listType typeId="fd9c242a-1be0-4e31-9984-22c775598c3a" valueTypeId="30763b6e-5c6a-4889-931a-6e77fe946767"/>
+    <managerType typeId="5e1a90b6-0216-452c-980e-f304f0701886" valueTypeId="e4799a50-0866-4fde-84e1-5389bbe824dd"/>
   </producedTypes>
-  <name>гвк_Проекты</name>
+  <name>Услуги</name>
   <synonym>
     <key>ru</key>
-    <value>Благотворительные проекты </value>
+    <value>Услуги</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.гвк_Проекты.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Услуги.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Услуги.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -67,7 +68,7 @@
     <name>Parent</name>
     <synonym>
       <key>ru</key>
-      <value>Главный проект</value>
+      <value>Группа услуг</value>
     </synonym>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:UndefinedValue"/>
@@ -97,68 +98,22 @@
   <fullTextSearch>Use</fullTextSearch>
   <objectPresentation>
     <key>ru</key>
-    <value>Проект</value>
+    <value>Услуга</value>
   </objectPresentation>
-  <extendedObjectPresentation>
-    <key>ru</key>
-    <value>Уставная деятельность</value>
-  </extendedObjectPresentation>
   <listPresentation>
     <key>ru</key>
-    <value>Уставная деятельность</value>
+    <value>Услуги</value>
   </listPresentation>
-  <extendedListPresentation>
-    <key>ru</key>
-    <value>Проекты</value>
-  </extendedListPresentation>
   <hierarchical>true</hierarchical>
-  <hierarchyType>HierarchyOfItems</hierarchyType>
-  <limitLevelCount>true</limitLevelCount>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
-  <descriptionLength>50</descriptionLength>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
   <codeType>String</codeType>
   <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
   <defaultPresentation>AsDescription</defaultPresentation>
-  <predefined>
-    <items id="81fcd00c-f407-48df-be2d-214026eff01d">
-      <name>УставнаяДеятельность</name>
-      <description>Уставная деятельность</description>
-      <code xsi:type="core:StringValue">
-        <value></value>
-      </code>
-    </items>
-  </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog.гвк_Проекты.Form.ФормаЭлемента</defaultObjectForm>
-  <defaultListForm>Catalog.гвк_Проекты.Form.ФормаСписка</defaultListForm>
-  <defaultChoiceForm>Catalog.гвк_Проекты.Form.ФормаВыбора</defaultChoiceForm>
-  <forms uuid="51cee248-73ea-47c0-80bc-4a70dd847744">
-    <name>ФормаСписка</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма списка</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
-  <forms uuid="366efd1b-0c29-468d-8a6a-d3aaee2be72e">
-    <name>ФормаВыбора</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма выбора</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
-  <forms uuid="1eee2692-b12c-4f73-8f94-07536170c057">
-    <name>ФормаЭлемента</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма элемента</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
 </mdclass:Catalog>
