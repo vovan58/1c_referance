@@ -94,6 +94,8 @@
 
 Дополнительно : [Обновление измененных типовых](https://t.me/e1c_edt/107138) - немного ранее много интересного!!!
 
+Книга на сайте ИТС : [Групповая разработка в 1С:Enterprise Development Tools](https://its.1c.ru/db/coldev#content:10011:hdoc)
+
 EDT. Непрерывный цикл от разработки до тестирования — 1C-RarusTechDay 2021 [youtube](https://www.youtube.com/watch?v=mRE6IYOeukE)  [rutube](https://rutube.ru/video/3e90ad75093bf3754b49dccf2e78e2ca/?t=0)
 
 [Как установить Java на Ubuntu](https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/kak-ustanovit-java-na-ubuntu#0)
