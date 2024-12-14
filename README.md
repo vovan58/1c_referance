@@ -19,16 +19,22 @@
 
 [Открытый пакет интеграций для популярных API: Telegram, VK, Viber, Bitrix24 и многих других ](https://infostart.ru/1c/articles/2016164/)
 
-## EDT
+[1C Developer](https://developer.1c.ru/applications/Console/welcome)  [на VKVideo](https://vkvideo.ru/@e1c_community/all/oldest)
+
+
+### EDT
 
 
 Обновление измененных типовых через EDT
 
-### EDT + Git
+#### EDT + Git
 [Организация командной разработки в 1C:EDT - базовая часть](https://vkvideo.ru/video-198342647_456239182)
 
 [Организация командной разработки в 1C:EDT - расширеная часть](https://vkvideo.ru/video-198342647_456239185)
 
+## Конфигурации
+
+[1С Аналитика - получение бесплатных лицензий](https://vkvideo.ru/video-198342647_456239029)
 
 ## Прочее интересное
 
