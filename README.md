@@ -26,6 +26,9 @@
 
 ### EDT
 
+[Приемы быстрой работы в EDT/Git- infostart](https://infostart.ru/1c/articles/1657584/)
+
+[Быстрое обновление базы 1С из XML-файлов конфигурации (EDT-GIT)](https://infostart.ru/1c/tools/1693508/)
 
 [Обновление измененных типовых через EDT](edt/vendor_update.md)
 
