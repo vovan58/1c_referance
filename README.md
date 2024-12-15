@@ -6,6 +6,8 @@
 
 [Прайсы](https://1c.ru/rus/partners/pricelst.jsp)
 
+[Каталог продуктов](https://1c.ru/rus/products/products.htm)
+
 [OpenYellow - рейтинг открытых GitHub репозиториев для платформы 1С:Предприятие](https://infostart.ru/1c/articles/2029643/)  [или https://openyellow.org/](https://openyellow.org/)
 
 
