@@ -1,5 +1,7 @@
 # Обновление измененных типовых через EDT
-[Важный стандарт 709 Технология разветвленной разработки конфигураций ](https://its.1c.ru/db/v8std#content:709:hdoc) [Ещё один источник](https://github.com/marmyshev/edt-editing)
+[Важный стандарт 709 Технология разветвленной разработки конфигураций ](https://its.1c.ru/db/v8std#content:709:hdoc) 
+
+[Ещё один источник](https://github.com/marmyshev/edt-editing)
 
 [в ТГ про обновление](https://t.me/e1c_edt/81792)
 
